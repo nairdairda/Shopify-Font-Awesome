@@ -25,6 +25,10 @@ All done! Now go ahead and use Font Awesome anywhere on your store. Take a look 
 
 Also look at [all the icons to choose from](http://fortawesome.github.io/Font-Awesome/icons/).
 
+### For more info
+
+Check out the official site: [http://fontawesome.io](http://fontawesome.io)
+
 ## Authors
 
 - The awesome people who made [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
