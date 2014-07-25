@@ -21,7 +21,7 @@ Open your theme's _Layout > theme.liquid_, and add the following into your heade
 
 ### Enjoy!
 
-All done! Now go ahead and use Font Awesome anywhere on your store. Take a look at these [examples](http://fortawesome.github.io/Font-Awesome/examples/). And [all the awesome icons to choose from!](http://fortawesome.github.io/Font-Awesome/icons/).
+All done! Now go ahead and use Font Awesome anywhere on your store. Take a look at these [examples](http://fortawesome.github.io/Font-Awesome/examples/). And [all the awesome icons to choose from](http://fortawesome.github.io/Font-Awesome/icons/)!
 
 ### For more info
 
